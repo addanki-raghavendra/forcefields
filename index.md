@@ -1,5 +1,5 @@
 Projects
 
 ---
-Non-Equilibrium free-energy calculations using Lammps
+#Non-Equilibrium free-energy calculations using Lammps
 
